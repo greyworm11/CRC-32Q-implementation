@@ -48,7 +48,7 @@ ___
 
 **You can text me on Telegram. I will be glad to hear from you criticism, as well as possible improvements on the program.**
 
-[My contacts here]("t.me/sergejgwssd")
+[My contacts here](t.me/sergejgwssd)
 
 </br>
 
