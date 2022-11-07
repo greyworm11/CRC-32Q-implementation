@@ -1,0 +1,23 @@
+﻿  main.c
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(43,1): warning C4255: GetInputFilename: прототип функции не задан: преобразование "()" в "(void)"
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(115,26): warning C4242: =: преобразование "int" в "uchar", возможна потеря данных
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(138,1): warning C4255: main: прототип функции не задан: преобразование "()" в "(void)"
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(175,74): warning C4057: функция: "const char *" отличается от "uchar *" по косвенному обращению к слегка разным базовым типам
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(176,44): warning C4057: функция: "const char *" отличается от "uchar *" по косвенному обращению к слегка разным базовым типам
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(177,46): warning C4057: функция: "const char *" отличается от "uchar *" по косвенному обращению к слегка разным базовым типам
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(179,68): warning C4057: функция: "const char *" отличается от "uchar *" по косвенному обращению к слегка разным базовым типам
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(194): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(192) : Примечание. Диапазон индекса "i", проверенный путем сравнения, в этой строке
+  C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(194) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(244): warning C4715: shift_index: значение возвращается не при всех путях выполнения
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(241): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(237) : Примечание. Диапазон индекса "i", проверенный путем сравнения, в этой строке
+  C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(241) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(257): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(255) : Примечание. Диапазон индекса "i", проверенный путем сравнения, в этой строке
+  C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(257) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(277): warning C5045: Компилятор вставит компонент устранения рисков Spectre для загрузки памяти, если указан параметр /Qspectre
+  C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(275) : Примечание. Диапазон индекса "i", проверенный путем сравнения, в этой строке
+  C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(277) : Примечание. Вызов веб-каналов в этой строке
+C:\Users\serge\source\repos\2 семестр\CRC32Q\CRC32Q\main.c(349): warning C4701: использована потенциально неинициализированная локальная переменная "c"
+  CRC32Q.vcxproj -> C:\Users\serge\source\repos\2 семестр\CRC32Q\x64\Debug\CRC32Q.exe
